@@ -17,12 +17,12 @@ This project fine-tunes the `DeepSeek-R1-Distill-Llama-8B` language model using 
 ##  Tech Stack
 
 - Python
-- 🤗 Transformers
-- 🦥 Unsloth
-- 🧠 DeepSeek-R1 (Distilled LLama 8B)
-- 🩺 Medical CoT Dataset
-- 🧪 Weights & Biases for tracking
-- 🗃️ Hugging Face Hub for model storage
+-  Transformers
+-  Unsloth
+-  DeepSeek-R1 (Distilled LLama 8B)
+-  Medical CoT Dataset
+-  Weights & Biases for tracking
+-  Hugging Face Hub for model storage
 
 ---
 
