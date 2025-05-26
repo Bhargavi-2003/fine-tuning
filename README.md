@@ -30,7 +30,7 @@ This project fine-tunes the `DeepSeek-R1-Distill-Llama-8B` language model using 
 
 Install the required packages:
 
-pip install unsloth
-pip install --force-reinstall --no-cache-dir --no-deps git+https://github.com/unslothai/unsloth.git
-pip install bitsandbytes triton wandb
+- pip install unsloth
+- pip install --force-reinstall --no-cache-dir --no-deps git+https://github.com/unslothai/unsloth.git
+- pip install bitsandbytes triton wandb
 
